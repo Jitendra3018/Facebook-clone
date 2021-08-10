@@ -1,0 +1,11 @@
+Technologies used in this build is as follows: 
+
+1. Firebase Storage (Uses firebase storage API)
+2. Next JS
+3. React JS
+4.Server Side Rendering (SSR)
+5. NextAuth (To powerup the authentication)
+6. Tailwind CSS
+7. Hero Icons
+
+Live Website Link: https://facebook-clone-jitendra3018.vercel.app/
