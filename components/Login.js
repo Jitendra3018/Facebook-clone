@@ -1,9 +1,13 @@
 import Image from "next/image";
 import { signIn } from "next-auth/client";
+import Head from "next/head";
 
 function Login() {
     return (
         <div className="grid place-items-center">
+            <Head>
+                <title>Login</title>
+            </Head>
             <Image
                 src="https://links.papareact.com/t4i"
                 height={400}
